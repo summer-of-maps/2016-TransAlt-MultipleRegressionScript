@@ -29,6 +29,6 @@ This script is intended for use by folks looking for a simple and lightweight me
 The code for this script is open and free to be forked, modified, or repurposed.
 
 ### Acknowledgements
-[Parker Ziegler](http://parkerziegler.com/) was the analyst for this project. Special to Daniel McGlone, Senior GIS Analyst at Azavea, for his mentorship on this project, to Esther Needham, Data Analytics Project Manager at Azavea, for her guidance with R, and to Jeremy Heffner, Senior Data Scientist at Azavea, for his statistical wisdom.
+[Parker Ziegler](http://parkerziegler.com/) was the analyst and developer for this project. Special thanks to Daniel McGlone, Senior GIS Analyst at Azavea, for his mentorship on this project, to Esther Needham, Data Analytics Project Manager at Azavea, for her guidance with R, and to Jeremy Heffner, Senior Data Scientist at Azavea, for his statistical wisdom.
 
 Data for this project comes from Transportation Alternatives, the U.S. Census Bureau's American Community Survey, and NYC Open Data.
